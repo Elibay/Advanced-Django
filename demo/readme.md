@@ -1,2 +1,2 @@
-JIRA PROJECT
-It is a simple project for make todolist.
+JIRA
+It is simple project for make Todolist.
